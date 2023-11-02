@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Phitron_Programming/Practice_Problem/PP_18.5",
-      "program": "d:/Phitron_Programming/Practice_Problem/PP_18.5/build/Debug/outDebug",
+      "cwd": "d:/Phitron_Programming/Module_17",
+      "program": "d:/Phitron_Programming/Module_17/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
