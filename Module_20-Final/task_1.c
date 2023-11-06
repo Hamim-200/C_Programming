@@ -1,23 +1,33 @@
 #include<stdio.h>
 int main(){
 
-    int N,M;
-    scanf("%d %d",&N,&M);
-    int a[N][M];
+    int tst;
+    scanf("%d",&tst);
+    while(tst--){
+        int N;
+        scanf("%d",&N);
 
-    for(int i=0;i<N;i++){
-        for(int j= 0;j<M;j++){
-            scanf("%d",&a[i][j]);
+        char round[100001];
+        scanf("%s",round);
+
+        int tiger=0,pathaan = 0;
+        for (int i = 0; i < N; i++) {
+            if (round[i] == 'T') {
+                tiger++;
+            } else if (round[i] == 'P') {
+                pathaan++;
+            }
         }
-    }
-  
-    for(int i=0;i<M;i++){
-        printf("%d ",a[N-1][i]);
-    }
-    printf("\n");
 
-    for(int i=0;i<N;i++){
-        printf("%d ",a[i][M-1]);
+        if(tiger>pathaan){
+            printf("Tiger\n");
+        }
+        else if(pathaan>tiger){
+            printf("Pathaan\n");
+        }
+        else{
+            printf("Draw\n");
+        }
     }
     return 0;
 }

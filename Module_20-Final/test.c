@@ -1,23 +1,40 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
 
-    int N,M;
-    scanf("%d %d",&N,&M);
-    int a[N][M];
-
-    for(int i=0;i<N;i++){
-        for(int j= 0;j<M;j++){
-            scanf("%d",&a[i][j]);
+    int n, s, k;
+    printf("Enter Line Number: ");
+    scanf("%d", &n);
+    int l = ((n - 1) / 2) + 6;
+    s = n + 4;
+    k = 1;
+    for (int i = 1; i <= l; i++)
+    {
+        for (int j = 1; j <= s; j++)
+        {
+            printf(" ");
         }
+        for (int j = 1; j <= k; j++)
+        {
+            printf("*");
+        }
+        s--;
+        k = k + 2;
+        printf("\n");
     }
-  
-    for(int i=0;i<M;i++){
-        printf("%d ",a[N-1][i]);
-    }
-    printf("\n");
 
-    for(int i=0;i<N;i++){
-        printf("%d ",a[i][M-1]);
+    for (int i = 0; i <5; i++)
+    {
+        for (int j = 1; j <=5; j++)
+        {            
+            printf(" ");
+        }
+        for (int j = 0; j < n; j++)
+        {            
+            printf("*");
+        }
+        
+        printf("\n");
     }
     return 0;
 }

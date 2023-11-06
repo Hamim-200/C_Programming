@@ -1,3 +1,9 @@
-for(int i=0;i<row;i++){
-    //     printf("%d ",a[i][col]);
+int i, j;
+    // for (i = 1; i <= n; i++)
+    // {
+    //     for (j = 1; j <= n - 2; j++)
+    //     {
+    //         printf(" ");
+    //     }
+    //     printf("***\n");
     // }
