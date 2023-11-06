@@ -2,20 +2,35 @@
 int main()
 {
     int n;
-    scanf("%d", &n);
-
-    int i, j;
-    for (i = 1; i <= n; i++)
+    scanf("%d",&n);
+    int l=(n+10)/2+1;
+    int space=(n+10)/2;
+    int tmp=1;
+    for(int i=0;i<l;i++)
     {
-        for (j = 1; j <= n - 2; j++)
+        for(int j=0;j<space;j++)
         {
             printf(" ");
         }
-        for (j = 1; j <= n ; j++)
+        space--;
+        for(int k=0;k<tmp;k++)
         {
-            printf("* \n");
+            printf("*");
         }
-       // printf("");
+        printf("\n");
+        tmp+=2;
     }
-    return 0;
+    space=5;
+    for(int i=0;i<5;i++)
+    {
+        for(int j=0;j<space;j++)
+        {
+            printf(" ");
+        }
+        for(int k=0;k<n;k++)
+        {
+            printf("*");
+        }
+        printf("\n");
+    }
 }
