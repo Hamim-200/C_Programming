@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     int x;
+    cout<< "Enter Number:";
     cin >> x;
     switch (x % 2)
     {
