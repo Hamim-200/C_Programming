@@ -5,7 +5,7 @@
 
 
 ### Course-2:Introduction to C++ for DSA
-*Module-1 - Basic C++
-*Module-2 - Dynamic Memory Allocation
+* Module-1 - Basic C++
+* Module-2 - Dynamic Memory Allocation
 
 
