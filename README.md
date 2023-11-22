@@ -10,3 +10,5 @@
 * Module-3 - Class & Object
 * Module-4 - Mid Term Exam
 * Module-5 - String Class in C++
+* Module-6 - More about Class and String
+* Module-7 - Array of Object
