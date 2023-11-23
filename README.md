@@ -12,3 +12,4 @@
 * Module-5 - String Class in C++
 * Module-6 - More about Class and String
 * Module-7 - Array of Object
+* Module-8 - Final Exam
