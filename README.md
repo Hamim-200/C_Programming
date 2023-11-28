@@ -13,3 +13,8 @@
 * Module-6 - More about Class and String
 * Module-7 - Array of Object
 * Module-8 - Final Exam
+
+
+### Course-3:Basic Data Structures
+* Module-1 - Time & Space Complexity
+
