@@ -2,6 +2,10 @@
 
 
 ### Course-1: Introduction to Programming Language(C)
+* Module-1 - Syntax, Variable & Data Type
+* Module-2 - operators & Conditional Statement
+* Module-3 - Loop
+* Module-3.5 -  [Practice Problem](https://www.hackerrank.com/contests/module-3-5-practice-a-introduction-to-c-programming-a-batch-04/challenges)
 
 
 ### Course-2:Introduction to C++ for DSA
@@ -17,4 +21,5 @@
 
 ### Course-3:Basic Data Structures
 * Module-1 - Time & Space Complexity
+* Module-2 - STL Vector
 
