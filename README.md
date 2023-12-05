@@ -32,3 +32,11 @@
 * Module-2 - STL Vector
 * Module-3 - prefix Sum & Binary Search
 
+ ```
+ .cph/
+.vscode/
+*.txt
+*.exe
+*.bin
+ ```
+ 
