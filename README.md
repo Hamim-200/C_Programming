@@ -16,6 +16,9 @@
 
 * Module-6.5 -  [Practice Problem](https://codeforces.com/group/MWSDmqGsZm/contest/326175) [problem Doc](https://docs.google.com/document/d/13WAjf3c91H1A0yiNvVVcp_ld7kx6ZBvFdWPvaq-16k8/edit)
 
+* Module-7 - Introduction to Array
+* Module-7.5 - [Practice Problem](https://codeforces.com/group/MWSDmqGsZm/contest/219774)
+
 ### Course-2:Introduction to C++ for DSA
 * Module-1 - Basic C++
 * Module-2 - Dynamic Memory Allocation
@@ -31,6 +34,11 @@
 * Module-1 - Time & Space Complexity
 * Module-2 - STL Vector
 * Module-3 - prefix Sum & Binary Search
+* Module-4 - No Module
+* Module-5 - Singly Linked List
+* Module-6 - Singly Linked List Operation
+* Module-7 - Singly Linked List Operation Recape
+* Module-8 - Assignment [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-basic-data-structures-a-batch-04/challenges)
 
  ```
  .cph/
