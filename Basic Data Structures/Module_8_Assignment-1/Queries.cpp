@@ -71,6 +71,7 @@ void delete_from_position(Node *head, int pos)
     tmp->next = tmp->next->next;
     delete deleteNode;
 }
+
 void delete_head(Node *&head)
 {
     if (head == NULL)

@@ -7,7 +7,7 @@
 * Module-3 - Loop
 * Module-3.5 -  [Practice Problem](https://www.hackerrank.com/contests/module-3-5-practice-a-introduction-to-c-programming-a-batch-04/challenges)
 
-* Module-4 -Assignment -  [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-04/challenges)
+* Module-4 -Assignment_1 -  [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-04/challenges)
 
 
 * Module-5 - Conditional Statement Recape. [Problem Set](https://docs.google.com/document/d/1bepRhM8ttF05-c0SjXgKdNvy6w49Ezx3HgDGbPsg7QQ/edit)
@@ -18,6 +18,11 @@
 
 * Module-7 - Introduction to Array
 * Module-7.5 - [Practice Problem](https://codeforces.com/group/MWSDmqGsZm/contest/219774)
+
+* Module-8 -Assignment_2 -  [Assignment Problem](https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-04/challenges)
+
+* Module-9 - Array Operation
+* Module-10 - Introduction to String
 
 ### Course-2:Introduction to C++ for DSA
 * Module-1 - Basic C++
@@ -39,6 +44,9 @@
 * Module-6 - Singly Linked List Operation
 * Module-7 - Singly Linked List Operation Recape
 * Module-8 - Assignment [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-basic-data-structures-a-batch-04/challenges)
+* Module-9 - Doubly Linked List
+* Module-10 - STL List and Cycle Detection
+
 
  ```
  .cph/
