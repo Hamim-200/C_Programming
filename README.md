@@ -23,6 +23,14 @@
 
 * Module-9 - Array Operation
 * Module-10 - Introduction to String
+* Module-10.5 - [Practice Problem](https://docs.google.com/document/d/1geZ2RYI0CXKm3O0Y5O9643MR8tlf82G_ozJexc06RrA/edit)
+
+* Module-11 - String operation & Frequency Array
+* Module-11.5 - [Practice Problem](https://docs.google.com/document/d/1PT2CA2uPXJ9p85RQ4pXazgu-NgCX9ROqbB9KqmJxFGQ/edit)
+
+* Module-12 - [Midterm](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-04/challenges)
+
+
 
 ### Course-2:Introduction to C++ for DSA
 * Module-1 - Basic C++
