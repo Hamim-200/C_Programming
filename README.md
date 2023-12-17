@@ -54,6 +54,7 @@
 * Module-8 - Assignment [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-basic-data-structures-a-batch-04/challenges)
 * Module-9 - Doubly Linked List
 * Module-10 - STL List and Cycle Detection
+* Module-11 - [Problem Solve using Linked List](https://docs.google.com/document/d/18eGNn5j7SpEy0CHFwZt6MuhLv_EkzCdl/edit)
 
 
  ```
