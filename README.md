@@ -55,6 +55,11 @@
 * Module-9 - Doubly Linked List
 * Module-10 - STL List and Cycle Detection
 * Module-11 - [Problem Solve using Linked List](https://docs.google.com/document/d/18eGNn5j7SpEy0CHFwZt6MuhLv_EkzCdl/edit)
+* Module-12 - [Midterm Exam](https://www.hackerrank.com/contests/mid-term-exam-a-basic-data-structures-a-batch-04/challenges)
+* Module-13 - Stack Implementation and STL
+* Module - 14 - Queue Implementation and STL
+* Module - 14.5 - [Practice Problem]()
+* Module - 15 - Problem Solvinge Usinng Stack & Queue
 
 
  ```
