@@ -51,7 +51,7 @@
 * Module-5 - Singly Linked List
 * Module-6 - Singly Linked List Operation
 * Module-7 - Singly Linked List Operation Recape
-* Module-8 - Assignment [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-basic-data-structures-a-batch-04/challenges)
+* Module-8 - [Assignment Problem](https://www.hackerrank.com/contests/assignment-01-a-basic-data-structures-a-batch-04/challenges)
 * Module-9 - Doubly Linked List
 * Module-10 - STL List and Cycle Detection
 * Module-11 - [Problem Solve using Linked List](https://docs.google.com/document/d/18eGNn5j7SpEy0CHFwZt6MuhLv_EkzCdl/edit)
@@ -59,7 +59,10 @@
 * Module-13 - Stack Implementation and STL
 * Module - 14 - Queue Implementation and STL
 * Module - 14.5 - [Practice Problem]()
-* Module - 15 - Problem Solvinge Usinng Stack & Queue
+* Module - 15 - [Problem Solvinge Using Stack & Queue](https://docs.google.com/document/d/1dt0sQcqtezoJzJwlJMakyXAF2cJUr_x-/edit)
+* Module - 15.5 - [Practice Problem]()
+* Module - 16 - [Assignment Problem]()
+
 
 
  ```
