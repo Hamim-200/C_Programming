@@ -62,6 +62,8 @@
 * Module - 15 - [Problem Solvinge Using Stack & Queue](https://docs.google.com/document/d/1dt0sQcqtezoJzJwlJMakyXAF2cJUr_x-/edit)
 * Module - 15.5 - [Practice Problem](https://docs.google.com/document/d/1Ss593vxUXekTF6ueFeBgUL47kXtJVV2Y/edit)
 * Module - 16 - Assignment -2 [Assignment Problem](https://www.hackerrank.com/contests/assignment-03-a-basic-data-structures-a-batch-04/challenges)
+* Module - 17 - Binary Tree Implemantation
+* Module - 18 - Operation on Binary Tree 
 
 
 
