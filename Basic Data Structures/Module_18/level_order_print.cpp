@@ -13,23 +13,40 @@ public:
         this->right = NULL;
     }
 };
-void level_order(Node* root){
-    queue<Node*>q;
-    q.push(root);
-    while(!q.empty())
+void level_order(Node *root)
+{
+    if (root == NULL)
     {
-        //1.ber kore ana
-        Node* f = q.front();
+        cout<<"Tree Not Available"<<endl;
+        return;
+    }
+    
+    queue<Node *> q;
+    q.push(root);
+    while (!q.empty())
+    {
+        // 1.ber kore ana
+        Node *f = q.front();
         q.pop();
 
-        //2.ALL TASK
-        cout<<f->val<<" ";
+        // 2.ALL TASK
+        cout << f->val << " ";
 
         // 3.tar children gula k rakhaa
-        if(f->left) q.push(f->left);
-        if(f->right) q.push(f->right);
-    }
+        if (f->left)
+            q.push(f->left);
 
+        if (f->right)
+            q.push(f->right);
+        // 10 20 30 40 90 50 60 100 70 80    
+
+        // if (f->right)
+        //     q.push(f->right);
+        // if (f->left)
+        //     q.push(f->left);
+        // 10 30 20 50 90 40 80 70 100 60 
+       
+    }
 }
 int main()
 {
@@ -60,4 +77,3 @@ int main()
     return 0;
 }
 
-// 10 20 30 40 90 50 60 100 70 80 
