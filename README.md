@@ -30,6 +30,11 @@
 
 * Module-12 - [Midterm](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-04/challenges)
 
+* Module-13 - Nasted Loop recape
+* Module-14 - Function and Pointer
+* Module-14.5 - [Practice Day](https://docs.google.com/document/d/1uzoOl9K0McJaxyy_o0p4la_sGCC8A-O8/edit) 
+* Module - 15 - Function with Pointer
+
 
 
 ### Course-2:Introduction to C++ for DSA
